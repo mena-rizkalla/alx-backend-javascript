@@ -1,11 +1,4 @@
 
-    ],
-  ],
-};
-
-.eslintrc.js
-Click to show/hide file contents
-
 module.exports = {
   env: {
     browser: false,

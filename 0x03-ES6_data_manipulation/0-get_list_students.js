@@ -8,3 +8,4 @@ function getListStudents(){
 
 	return people;
 }
+export default getListStudents;
